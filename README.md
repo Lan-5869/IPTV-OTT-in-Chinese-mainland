@@ -6,4 +6,4 @@ All the contents of this repository come from the Internet. For learning referen
 Matters needing attention and using method
 
 Files need tobe decomptessed after downloading. Then open it with a supported video player, such as Potplayer and IPTV Pro. Part of the file may be invalid at any time. I will update it regularly. Click on the Star to view it after logging into Github to keep the file up to date. 
-Please get the latest updated files in the Releases section or click https://github.com/Lan-5869/IPTV-in-Chinese-mainland/releases to jump.
+Please get the latest updated files in the Releases section or click [here](https://github.com/Lan-5869/IPTV-in-Chinese-mainland/releases) to jump.
